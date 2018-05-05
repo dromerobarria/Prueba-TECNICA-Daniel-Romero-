@@ -1,0 +1,11 @@
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csprojResolveAssemblyReference.cache
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Users/dromero/Downloads/Docs-master/aspnetcore/tutorials/first-web-api/samples/2.0/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
